@@ -36,3 +36,24 @@ class PowerRanger << Person
 	end
 
 end
+
+class EvilNinjas << Person
+
+	def initialize
+		@strength = strength
+		@evilness = evilness
+	end
+
+	def punch
+	
+	end
+
+	def cause_mayhem
+
+	end
+	
+end
+
+
+
+
