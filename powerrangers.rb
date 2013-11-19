@@ -18,3 +18,21 @@ class Person
 	end
 
 end
+
+
+class PowerRanger << Person
+
+	def initialize
+		@strength = strength
+		@color = color
+	end
+
+	def punch
+	
+	end
+
+	def rest
+
+	end
+
+end
